@@ -18,5 +18,10 @@
   },
   "dependencies": {
     "dayjs": "^1.11.9"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }

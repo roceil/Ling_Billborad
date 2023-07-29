@@ -25,7 +25,7 @@
     <!-- 清單區塊 -->
     <div class="container mt-4">
       <ul
-        class="w-full h-[600px] bg-gray-50 rounded-2xl drop-shadow-xl py-3 px-5 overflow-y-scroll"
+        class="w-full h-[430px] bg-gray-50 rounded-2xl drop-shadow-xl py-3 px-5 overflow-y-scroll"
       >
         <li
           v-for="item in saleItems"
